@@ -1,5 +1,5 @@
 primer archivo de prueba
-- primer cambio
-- segundo cambio
-
++ primer cambio
++ segundo cambio
++ tercer cambio
 
